@@ -6,7 +6,7 @@ import math
 HWSize = 600
 MinNode = 8
 MaxNode = 8
-SAVE_FILE = False
+SAVE_FILE = True
 
 
 def GenGraph(Graph):
